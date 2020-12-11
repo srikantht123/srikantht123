@@ -21,3 +21,23 @@ Here are some ideas to get you started:
 - 💬 Ask me about math,python,javascript
 - 📫 How to reach me: tsrikanth795@gmail.com
 - ⚡ Fun fact: i love to play chess,coding, solving math problems and creating youtube videos.
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+
+
+
+
+
+
+[twitter]: https://twitter.com/CodeAndCurious
+[youtube]: https://www.youtube.com/channel/UCavnrcnSY0R9xguG-6t5VLw
+[instagram]: https://www.instagram.com/codeandcurious/
+[linkedin]: https://www.linkedin.com/in/srikantht165/
