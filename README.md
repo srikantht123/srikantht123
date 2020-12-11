@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning machine learning , react.js 
+- 👯 I’m looking to collaborate on projects related python,javascript,machine learning
+- 💬 Ask me about math,python,javascript
+- 📫 How to reach me: tsrikanth795@gmail.com
+- ⚡ Fun fact: i love to play chess,coding, solving math problems and creating youtube videos.
