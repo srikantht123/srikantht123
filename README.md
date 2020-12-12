@@ -33,6 +33,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [dijkstras algorithm explanation in computer networks](https://www.youtube.com/watch?v=uC5GPNia4cA)
+- [calling a function in a file from another file using the matlab](https://www.youtube.com/watch?v=a1ERMzeLi4I)
+- [how to write a nested function using matlab](https://www.youtube.com/watch?v=D1EQny0NZcQ)
+- [calling another function from a function in the same matlab file using MATLAB](https://www.youtube.com/watch?v=SdtIsqKK9lU)
+- [How to write an inline function in matlab](https://www.youtube.com/watch?v=b8oG3CD2t7A)
 <!-- YOUTUBE:END -->
 
 [twitter]: https://twitter.com/CodeAndCurious
