@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tsrikanth795@gmail.com
 - ⚡ Fun fact: i love to play chess,coding, solving math problems and creating youtube videos.
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="CodeAndCurious | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -30,6 +32,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="CodeAndCurious | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+---
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -40,7 +44,8 @@ Here are some ideas to get you started:
 - [How to write an inline function in matlab](https://www.youtube.com/watch?v=b8oG3CD2t7A)
 <!-- YOUTUBE:END -->
 
-[more videos...](https://www.youtube.com/channel/UCavnrcnSY0R9xguG-6t5VLw)
+➡️ [more videos...](https://www.youtube.com/channel/UCavnrcnSY0R9xguG-6t5VLw)
+
 ---
 
 <img align="left" alt="Srikanth T's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=srikantht123&show_icons=true&hide_border=true" />
