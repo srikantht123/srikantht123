@@ -48,6 +48,15 @@ Here are some ideas to get you started:
 
 ---
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+  
+ 
+</details>
+
+---
+
 <img align="left" alt="Srikanth T's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=srikantht123&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 
 <br />
