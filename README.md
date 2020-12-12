@@ -46,15 +46,6 @@ Here are some ideas to get you started:
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCavnrcnSY0R9xguG-6t5VLw)
 
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
- 
-</details>
 
 ---
 
