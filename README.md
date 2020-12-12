@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 <br />
 
 ### 📺 Latest YouTube Videos
-
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
