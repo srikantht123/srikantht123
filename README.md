@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 - [How to write an inline function in matlab](https://www.youtube.com/watch?v=b8oG3CD2t7A)
 <!-- YOUTUBE:END -->
 
+[more videos...](https://www.youtube.com/channel/UCavnrcnSY0R9xguG-6t5VLw)
 ---
 
 <img align="left" alt="Srikanth T's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=srikantht123&show_icons=true&hide_border=true" />
