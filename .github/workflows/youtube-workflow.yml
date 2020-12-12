@@ -1,4 +1,5 @@
-name: Latest Youtube videos
+
+name: Latest YouTube Videos
 on:
   schedule:
     # Runs every hour
@@ -7,12 +8,11 @@ on:
 
 jobs:
   update-readme-with-youtube:
-    name: Update this repo's README with latest videos from Youtube 
+    name: Update this repo's README with latest videos from YouTube
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
-          commit_message: "Updated readme with the latest youtube videos"
-          feed_list: "https://www.youtube.come/feeds/videos.xml?channel_id=UCavnrcnSY0R9xguG-6t5VLw"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCavnrcnSY0R9xguG-6t5VLw"
