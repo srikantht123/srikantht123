@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Srikanth T's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=srikantht123&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 
----
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikantht123&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
